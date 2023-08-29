@@ -1,0 +1,485 @@
+WEB PAD: Jari Aalto  
+Note: Use Firefox. Will be emptied, so please copy the content.
+---------------------------------
+[TOP RIGHT] GEAR ICON / SETTINGS
+[ ] Authorship colors OFF
+Font Type: RobotoMono
+Language: English
+--------------------------------
+
+2023-08-28 ma 12:00 (vk 35) OPINNÄYTETYÖ / PALAVERI
+
+AGENDA
+
+    - Edistymisen seuranta
+    - Aikataulu
+    - Valmistuminen
+    - Lataa opinnäytetyän nykyinen versio:
+      Gdrive: https://is.gd/aVlzQ5
+      <lastname>-<firstname>.pdf
+
+LÄSNÄOLIJAT
+
+    Abstraktit: FI EN
+    -       Ei tarvetta, työ on englanninkielinen
+    A       aloitettu
+    !       Tarkistettavana
+    +       Valmis
+
+    Työlelämän edustajan lausunto (L):
+    -       Ei toimeksiantajaa
+    !       Pyydetty
+    +       Valmis
+
+                                + PDF YYYY-MM  N    FI EN L  %
+    ----------------------------------------------------------
+    Särkiniemi Joonas           . 20  2023-12  3    !  !  ! 80
+    Heikkinen Vertti  (tite)    . 3   2023-12  3-4  +  !  -  2
+    Allisto Eemeli              . .   2023-12  3    .  .  .  .
+    Immonen Samuli              + 1   2023-12  3-4  .  .  .  2
+    - puuttuva 6 op (männistö), hyvähot
+    Kangas Kaarlo               . .   2023-12  3-5  .  .  -  .
+    Kurki Aaro                  . .   2023-12  4-5  .  .  -  5
+    - MOOC 2/25 op, 5 op proj
+    Rämö Joona                  . .   2023-12  3    .  .  -  .
+    - 8 op opinnollistaminen? MOOC 4A00FA30-3001 24/30 op
+    Sipolainen Säde             . .   2023-12  3    ,  ,  -  .
+    Viikeri Teemu               + 0   2023-12  4-5  .  .  .  .
+    - 16 op ahot DONE
+    ----------------------------------------------------------
+
+TILANNEKATSAUS
+
+    Kirjaa muutamalla lauseella
+    - mitä on tehty
+    - mitä on tekemättä, ongelmat yms.
+    - mikä on suunnitelmissa
+
+    Särkiniemi Joonas (tite, avoin)
+    -
+
+    Heikkinen Vertti (tite)
+    -
+
+    Allisto Eemeli
+    -
+
+    Immonen Samuli
+    - Opparin käytännön työ valmis, kirjoittaminen ei niinkään
+    - Lähteitä on jonkin verran. Voisi olla enemmänkin. Aiheesta ei kovin spesifiä, virallista dataa (kirjaa) ole
+    - 3pv/viikko töitä, 2pv/viikko opparin kirjoitusta ja muita koulujuttuja
+    - 6 puuttuvan opintopisteen suoritus selkeä
+    - Opinnäytetyön käynnistäminen-kurssi yhtä suoritusta vaille valmis
+
+    Kangas Kaarlo
+    -
+
+    Kurki Aaro
+    -
+
+    Rämö Joona
+    -
+
+    Sipolainen Säde
+    -
+
+    Viikeri Teemu
+    - Todella hyvää kirjallisuutta kerätty aiheen osalta O'Reillyyn, ja sen lukemista aloitettu. 
+    - Kirjallisuuden pohjalta aloitettu aiheiden sisällön suunnittelua ja sommittelua. 
+    - Itse opinnäytetyötekstiä ei vielä aloitettu, joten on paljon kirittävää sen osalta.
+    - Päässä työtä on jo jäsennelty aika hyvin, nyt se vain pitäisi saada paperille.
+    - Muut opinnot done.
+
+OHJAAVAN OPETTAJAN YHTEYSTIEDOT
+
+    https://intra.tuni.fi/content/user/303
+
+    Jari Aalto
+    puh. +358 50 54 69 432
+    Kuntokatu, 3 33520 Tampere
+    <jari.aalto@tuni.fi>
+
+MOODLE
+
+    * TIKO
+    https://moodle.tuni.fi/course/view.php?id=13533
+
+    * TITE
+    https://moodle.tuni.fi/course/view.php?id=8502
+
+OPINNÄYTETYÖN PERUSPERIAATTEET
+
+    Työn vähimmäispituus 30 sivua ts. enemmän kuin "raportti".
+
+    Arviontiasteikka ei ole lineaarinen:
+    1,2,3 .. 4 ja 5 (työn pituudet n. 30..50 sivua)
+
+    Lopun johtopäätökset:
+    - 1-2 suoraviivainen (1-2 sivua)
+        3 analyyttinen (2+ sivua)
+      4-5 analyyttinen, pohtiva ja katse tulevaisuuteen (3+ sivua)
+
+    Esim. numero 5 olisi kandidaatti AMKien opinnäytetöiden kipailuun
+    lähetettäväksi.
+
+    Työn käsittelyn idea:
+
+      \             /
+       \           /
+         ---------
+       /           \
+      /             \
+
+    Sisällysluettelon rakenne tasapainossa. Ei 3. tason otsioita.
+
+          1.0
+            1.1
+            1.2
+          2.0
+            2.1
+            2.2
+
+    Työstämisen ideoita:
+
+    - Lähde käsittelemään teoriaa yleistajuisesti. Alä tee liian
+      nopeaa "suppiloa" sukeltaaksesi aiheeseen. Voit lähteä
+      kaukaakin (projektinhallinan periaatteet, historia yms).
+
+    - Pidä viikkoaikataulu ja edistymisen seuranta näkyvissä:
+      viikko/sivumäärä. SEuranta voi olla esim. jääkaapin ovessa,
+      Tietokoneen näytössä keltaisin lapuin, ulko-ovessa.
+      Tärkeää on pitää tieto jossakin nenän edessä muistuttamassa.
+
+    - Korkeimmissa numeroissa painottus on enemmän teoriassa. Sen
+      yhdistämisessä pitkin työtä. Tutkimuksellinen ote. Vertailu.
+      Suorituskykymittaukset yms. Teknologiat muuttuvat ja vaihtuvat,
+      joten teoreettiset yleiset osuudet ja kaaviot tulisi
+      hahmotella tasolla, joka kestää aikaa.
+
+    - Johtpäätökset lopussa: eivät ole vain työn yhteenvetoa
+      korkeimmissa numeroissa. Analysoi, pohdi, avaan uusia uria, jätä
+      asioita tutkittavaksi ja avoimeksi
+
+TEKOÄLYN KÄYTTÖ (ChatGPT)
+
+    Tekoälytyökalun käyttäminen voidaan kertoa teoksen menetelmät tai
+    vastaavassa osiossa esimerkiksi seuraavasti:
+
+        Tämä teoksen laatimisessa tekijät ovat käyttäneet
+        tekoälytyökalua ChatGPT teoksen luvun 2.1 alustatalouden
+        mahdollisuuksien kuvaamiseen. Tekijät ovat tarkistaneet ja
+        muokanneet työkalun laatimaa sisältöä ja ottavat täyden
+        vastuun teoksen sisällöstä.
+
+    Viittaus tekoälyn tuottamaan tekstiin tehdään viittaamalla
+    työkaluun ja siitä käytettyyn versioon, esimerkiki:
+
+        Kysyttäessä ”Mikä on alustatalouden yleistymisen merkittävin
+        haaste?”, ChatGPT vastaa tämän olevan vaikutus perinteiseen
+        liiketoimintamalliin ja työmarkkinoihin (OpenAI, 2023).
+
+    Lähdeluetteloon merkitään tällöin, jos käytössä APA-tyyli
+    (American Psychological Association, 2020):
+
+        OpenAI. (2023). ChatGPT (Maaliskuu 14 versio) [Suurikielimalli].
+        Saatavissa https://chat.openai.com/chat. Viitattu 29.4.2023
+
+WIHI OPINNÄYTETYÖN PROSESSI
+
+    https://intra.tuni.fi/opetus/opinnaytteet/wihi-jarjestelma/wihi-opiskelijan-ohje?targeting_set=tamk_student
+
+    opiskelijan tehtävät:
+
+    1: Lisää esisuunnitelma (PDF)
+    2: Lisää Aikataulusuunnitelma: Spreadsheet > Gant-kaavio (PDF)
+    3: 1/3 <ei vaihetyötä>
+    4: 2/3 <ei vaihetyötä>
+    5: 3/3 Valmis arvioitavaksi
+       A. Lähetä 1.0 työ arvioitavaksi ohjaajalle
+       B. Tee plagioinnin tarkistus wihissä (PDF)
+       C. Lähetä ohjaajalle Theseus-linkki (URN)
+    6: <ei vaihetyötä>
+    7: <ei vaihetyötä>
+
+TIIVISTELMÄ, ABSTRAKTI JA KIELITARKISTUS
+
+    * F) Tiivistelmä ja abstrakti
+    https://intra.tuni.fi/fi/opiskelu/opiskelu-0/kirjallisen-raportoinnin-opas
+
+    * TIKO
+    FI: Mari Touronen (suomen kieli) <mari.touronen@tuni.fi>
+    EN: Marianna Leikomaa (englannin kieli) <marianna.leikomaa@tamk.fi>
+
+    * TITE
+    FI: Annina Korpela (suomen kieli) <annina.korpela@tuni.fi>
+    EN: Riku-Matti Kinnunen (englannin kieli) <riku-matti.kinnunen@tuni.fi>
+
+    1. Ensin FI
+    - Vain tiivistelmä
+      tamk-opinnaytetyo-<sukunimi>-<etunimi>-tiivistelma-fi.docx
+    - TIKO:
+      Lataa Moodleen: kehittämistyön menetelmät opinnäytetyössä
+    - TITE:
+      To: <annina.korpela@tuni.fi>
+      Subject: TAMK ONT - FI tiivistelmä / Sukunimi Etunimi
+
+    2. Sitten EN
+    - Ehdoton max 150 – 200 sanaa.
+    - Vain tiivistelmät:
+      tamk-opinnayte-<sukunimi>-<etunimi>-tiivistelma-fi.docx
+      tamk-opinnayte-<sukunimi>-<etunimi>-tiivistelma-en.docx
+    - TIKO
+      To: <marianna.leikomaa@tamk.fi>
+      Subject: TAMK ONT - EN abstract / Sukunimi Etunimi
+    - TITE:
+      Ohje 2023-03-30: https://is.gd/eHYNcK
+      To: <riku-matti.kinnunen@tuni.fi>
+      Subject: TAMK ONT - EN abstract / Sukunimi Etunimi
+
+    Tarkastuskierroksia on vain yksi kieltenopettajaa kohden.
+    Tiivistelmään/abstraktin tarkastuksen jälkeen tehtyjä muutoksia
+    ei enää lähetä tarkastettavaksi.
+
+    Huom. EN-opinnäytetyöstä tehdään vain englanninkielinen
+    tiivistelmä.
+
+KYPSYYSNÄYTE
+
+    http://exam.tuni.fi
+
+    Opiskelijan tulee kirjautua kerran järjestelmään, jotta hänelle
+    voi osoittaa kypsyysnäytteen.
+
+    Opintojakson koodi Examissa on NN00GB64-3001. Kypsyysnäytteen
+    pituus on 115min.
+
+    - Opiskelijan ohjeet tiedotteen muotoiseen kypsyysnäytteen kirjoittamiseen
+      https://intra.tuni.fi/fi/opiskelu/opiskelu-0/opinnaytetyot/opinnaytetyo-ohje-opiskelijalle-tamk#kirjoittaminen
+
+PLAGIOINNIN TARKISTUS
+
+    1. Lataa PDF-työ WIHIn kohtaan 3/3
+
+        tamk-opinnaytetyo-<sukunimi>-<etunimi>.pdf
+
+    2. Ohjaaja kuittaa palautuksen
+
+TYÖELÄMÄN EDUSTAJAN LAUSUNTO
+
+    Jos työllä on toimeksiantaja:
+
+    1. Pyydä lausunto
+
+    2. Lähetä valmis lausunto sähköpostissa PDF-muodossa ohjaajalle
+
+    3. Lausunto lähetettäväksi löytyy INTRAsta:
+
+       Opinnäytetyö (ohje opiskelijalle, TAMK)
+       > 5.2 Työelämän edustajan rooli opinnäytetyöprosessissa
+       > download
+       https://intra.tuni.fi/fi/opiskelu/opiskelu-0/opinnaytetyot/opinnaytetyo-ohje-opiskelijalle-tamk
+       - - -
+       download link checked: 2023-08-25
+       https://content-webapi.tuni.fi/proxy/public/2019-09/intra_tyoelaman_edustajan_lausunto_28_8_2019_0.docx
+
+ESITTELYTIELAISUUS JA POSTERI
+
+    1. TITE: yhteinen esittelytilaisuus (ks. aikataulu; Pekka Pöyry)
+
+       Ei posteria. Valmistele tilaisuuteen Powerpoint-esitys (n. 15
+       sivua; 10 min).
+
+    2. TIKO: yhteinen esittelytilaisuus (ks. aikataulu; Tapio Yrjölä)
+
+       A. Opinnäytetyö esitellän yhteisessä tilaisuudessa (posteri).
+       B. Hyvät työt lisäksi suullisena esityksenä (arvosana 4 ja 5; powerpoint).
+
+       Ohje posterin tekemiseen TIKOn opinnäytetyön sivulla.
+       https://moodle.tuni.fi/mod/page/view.php?id=591931
+
+       POSTERI: Koko A3 (PDF). Tavoitteena on luoda katsojalle visuaalinen
+       viesti esitettävästä asiasta.
+
+       - opinnäytetyön tekijä (etunimi, sukunimi) ja tekijän yhteystiedot
+       - korkeakoulu (Tampereen ammattikorkeakoulu)
+       - koulutus ja polku/suuntautuminen (Tietojenkäsittelyn koulutus, x polku )
+       - ohjaajan nimi (etunimi, sukunimi)
+       - esittelyn ajankohta (DD.MM.YYYY)
+       - opinnäytetyön nimi
+       - opinnäytetyön käytännön osuuden keskeinen sisältö
+       - toimeksiantaja (jos on)
+       - tavoite ja tarkoitus
+       - menetelmät
+       - keskeiset tulokset ja päätelmät
+
+       INTRA: "Opinnäytetyö (ohje opiskelijalle, TAMK)"
+       > 6.2 Opinnäytetyön suullinen esittäminen
+       https://intra.tuni.fi/fi/opiskelu/opiskelu-0/opinnaytetyot/opinnaytetyo-ohje-opiskelijalle-tamk
+
+TYÖN JULKAISU THESEUKSEEN (KIRJASTO)
+
+    1. Julkaise 1.0 PDF/A-muodossa Theseukseen:
+
+       - INTRA: Opinnäytetyö (ohje opiskelijalle)
+         6.4 Opinnäytetyön julkaiseminen
+         https://intra.tuni.fi/fi/opiskelu/opiskelu-0/opinnaytetyot/opinnaytetyo-ohje-opiskelijalle-tamk#julkaiseminen
+
+       - KIRJASTON OHJE JULKAISUN VALMISTELUUN
+         + Opinnäytteen luovuttaminen / TAMK
+           https://libguides.tuni.fi/opinnaytteet/luovuttaminen-tamk
+         + Huom. julkaise PDF/A formaatissa
+           https://libguides.tuni.fi/opinnaytteet/pdfa
+
+       - Theseus - PDF/A tiedoston lataus
+         http://theseus.fi
+         https://submissions.theseus.fi
+
+    2. Ilmoita ohjaajalle Theseus https://urn.fi -linkki
+
+       To: <jari.aalto@tuni.fi>
+       Subject: TAMK ONT - Theseus
+
+VALMISTUMISEN CHECKLIST
+
+    1. OPINNÄYTETYÖN VIIMEISTELYN TARKISTUSLISTA
+       http://cante.net/~jaalto/tamk/doc/opinnayte-checklist.txt
+
+    2. INTRA: "Valmistumisen check list"
+       https://intra.tuni.fi/fi/opiskelu/valmistuminen-0/valmistumisen-vaiheet/valmistumisen-check-list
+
+       Tee valmistumishakemus Pakissa (Opinnot > Valmistumishakemus)
+       valmistumishakemus, opiskelijan ohje
+       link checked: 2023-08-25
+       https://content-webapi.tuni.fi/proxy/public/2022-02/opiskelijan-ohje.pdf
+
+VALMISTUMISEN VAIHEET (THESEUS JA TODISTUSANOMUS)
+
+    https://intra.tuni.fi/fi/opiskelu/opiskelu-0/opinnaytetyot/opinnaytetyo-ohje-opiskelijalle-tamk#julkaiseminen
+
+    1. Theseus: julkaise virallinen työ
+
+    2. Ano opintotodistusta
+
+       * Hakemus ja AVOP-kysely
+       Pakki > Opinnot > Valmistumishakemus
+       https://pakki.oma.tamk.fi/group/pakki/valmistumishakemus
+
+       https://avop.fi/fi
+       https://intra.tuni.fi/fi/opiskelu/opiskelu-0/avop-palaute
+
+       Kun olet vastannut kyselyyn, lähtee tästä automaattisesti tieto
+       HOPS-tarkastajallesi, joka tarkastaa HOPSisi.
+       HOPS-tarkastajalle tulee varata riittävästi aikaa
+       tarkastamiseen.
+
+       Kun HOPS-tarkastaja on tarkastanut HOPSisi, tulee hakemus
+       sinulle takaisin, ja voit vielä itse varmistaa, että HOPSisi on
+       suunnitellun mukainen.
+
+       Tämän jälkeen voit lähettää tutkintotodistushakemuksesi
+       eteenpäin opintoasiainkoordinaattorille todistuksen
+       valmistamista varten. Tämä sinun tulee tehdä viimeistään kahta
+       viikkoa ennen valitsemaasi valmistumispäivää.
+
+HAKEMUKSET
+
+    Opiskeluoikeuden jatkaminen: lisäaikahakemus
+    https://intra.tuni.fi/fi/opiskelu/opiskelijan-palvelut-ja-kaytanteet/opiskelun-lomakkeet
+
+AIKATAULU
+
+    INTRA > Valmistuminen > Aikataulut
+
+    https://intra.tuni.fi/fi/opiskelu/valmistuminen-0/valmistumisen-vaiheet/valmistumisen-aikataulut
+
+    Muista ottaa aikatauluissa huomioon Final-työn (1.0) palautus 2
+    viikkoa ennen ohjaajalle. Final-työn palauttamisen jälkeen siihen
+    ei saa tehdä muutoksia kirjastoon palautettavaan kappaleeseen.
+
+    Tiivistelmien (EN, FI) käsittelyyn tulee varata 2 vk: 7 arkiäivää
+    kummallakin.
+
+    Opinnäytetyön tarkastusvaiheeseen tulee varata 1-2 vk: Theseus
+    kirjastointi, työelämän edustajan lausunto 2. tarkastajan arvio,
+    TAMK kirjaukset, HOPSin tarksitus valmistumiseen (OPO).
+
+    * = Palaveri
+    ! = todistuksen hakupäivä
+    + = Valmistumispäivä
+    # = ONT-esittely
+
+           August 2023 (08)
+     w| Mo Tu We Th Fr Sa Su
+    31|     1  2  3  4  5  6
+    32|  7  8  9 10 11 12 13
+    33| 14 15 16 17 18 19 20
+    34| 21 22 23 24 25 26 27
+  > 35| 28*29 30 31
+
+         September 2023 (09)
+     w| Mo Tu We Th Fr Sa Su
+    35|              1! 2  3
+    36|  4  5  6  7  8  9 10
+    37| 11 12 13 14 15!16 17
+    38| 18 19 20 21 22 23 24
+   *39| 25*26 27 28 29!30       15>29.10 valmistuminen
+
+          October 2023 (19)
+     w| Mo Tu We Th Fr Sa Su
+    39|                    1
+    40|  2  3  4  5  6  7  8
+    41|  9 10 11 12 13+14 15    29.9>13.10 valmistuminen
+    42| 16 17!18 19 20 21 22
+    43| 23 24 25 26 27 28 29    FI tiivistelmä lähetetty
+    44| 30*31+                  17>31.10 valmistuminen
+
+          November 2023 (11)
+     w| Mo Tu We Th Fr Sa Su
+    44|        1! 2  3  4  5
+    45|  6  7  8  9 10 11 12    FI/EN tiivistelmät valmiit (2 vk)
+ *  46| 13 14 15+16!17 18 19    kypsyysnäyte
+ *  47| 20 21 22 23 24 25 26    Esittely, plagointi, työelämän lausunto
+ *   48| 27 28 29 30+
+
+          December 2023 (12)
+     w| Mo Tu We Th Fr Sa Su
+    48|              1! 2  3    3.12 Deadline 1.0, Theseus
+    49|  4  5  6  7  8  9 10    arviointi, 2. tark, HOPS
+    ------------------------
+    50| 11 12!13 14 15+16 17    12.12 todistuksen haku
+    51| 18 19 20 21 22 23 24
+    52| 25 26 27 28 29+30 31    29.12 valmistuminen
+
+    Deadlines
+    ----------------
+    2023-MM-DD      TIKO ONT-esittely Tapio Yrjölä
+    2023-MM-DD      TITE ONT-esittely Pekka Pöyry
+    2023-12-03      Deadline 1.0
+    2023-12-13      Todistuksen haku
+
+    Todistuksen
+    haku            valmistumispäivä
+    ----------      ----------------
+    2023-09-15      2023-09-29
+    2023-09-29      2023-10-13
+    2023-10-17      2023-10-31
+    2023-11-01      2023-11-15
+    2023-11-16      2023-11-30
+    2023-12-01      2023-12-15
+    2023-12-13      2023-12-29
+
+    2024-01-17      2024-01-31
+    2024-02-01      2024-02-14
+    2024-02-15      2024-02-29
+    2024-03-01      2024-03-14
+    2024-03-15      2024-03-28
+    2024-04-02      2024-04-15
+    2024-04-16      2024-04-30
+    2024-04-29      2024-05-15
+    2024-05-17      2024-05-31* opetushenkilökunta jää kesälomalle
+    2024-06-03      2024-06-14
+    2024-06-13      2024-06-28
+
+END OF FILE
+
+
